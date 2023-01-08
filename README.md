@@ -2,7 +2,7 @@
 Project: Recipes
 Create a recipe website that consists of a main index (homepage) that links to a number of recipes.
 
-This Wbesite will have a number of webpages: a homepage (index.html), links <a></a> to a different webpage on the website. This allows the user to navigate from the homepage to different recipes held on seperate web pages within the website.
+This Website will have a number of webpages: a homepage (index.html), links <a></a> to a different webpage on the website. This allows the user to navigate from the homepage to different recipes held on seperate web pages within the website.
 
 Using HTML to code the "bones" of each webpage contained on the website.
 
